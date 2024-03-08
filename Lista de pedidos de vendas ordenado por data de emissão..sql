@@ -1,0 +1,1 @@
+SELECT * FROM public.pedido ORDER BY data_emissao DESC

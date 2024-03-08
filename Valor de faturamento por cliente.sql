@@ -1,0 +1,1 @@
+SELECT id_cliente, SUM(valor_total) FROM public.pedido GROUP BY id_cliente 

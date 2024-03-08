@@ -1,0 +1,1 @@
+SELECT * FROM public.vendedores ORDER BY salario DESC
